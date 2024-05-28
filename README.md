@@ -14,9 +14,7 @@ Instructions
 3.	Read each question carefully and select the correct answer from the multiple choices.
 4.	The game will track your score and time, adding a competitive element to the learning process.
 Subject Area
-English as a Second/Foreign Language (ESL/EFL), Grammar, Environmental Studies
-Educational Level
-B1 (CEFR)
+English as a Second/Foreign Language (ESL/EFL), Grammar, Educational Level B1 (CEFR)
 License
 This OER is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 Keywords
@@ -37,8 +35,7 @@ English grammar, verb tenses, environmental actions, sustainability, green pract
 3.	Διαβάστε προσεκτικά κάθε ερώτηση και επιλέξτε τη σωστή απάντηση από τις πολλαπλές επιλογές.
 4.	Το παιχνίδι θα παρακολουθεί τη βαθμολογία και τον χρόνο σας, προσθέτοντας ένα ανταγωνιστικό στοιχείο στη διαδικασία μάθησης.
    
-Γνωστικό Αντικείμενο:Αγγλικά ως Δεύτερη/Ξένη Γλώσσα (ESL/EFL), Γραμματική, Περιβαλλοντικές Σπουδές
-Επίπεδο Εκπαίδευσης: B1 (CEFR)
+Γνωστικό Αντικείμενο:Αγγλικά ως Δεύτερη/Ξένη Γλώσσα (ESL/EFL), Γραμματική, Επίπεδο Εκπαίδευσης: B1 (CEFR)
 
 
 Άδεια Χρήσης
